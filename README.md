@@ -1,11 +1,11 @@
 # Classic-Snake
 Phạm Minh Hiếu 21020319
 1. Cách cài đặt
-  -Tạo thư mục muốn cài đặt game, mở bằng Visual Studio Code, nhập vào terminal
-  -git clone https://github.com/PhamH1eu/Classic-Snake.git
-  -cd Classic-Snake
-  -mingw32-make -f Makefile
-  -./main.exe
+  - Tạo thư mục muốn cài đặt game, mở bằng Visual Studio Code, nhập vào terminal
+  - git clone https://github.com/PhamH1eu/Classic-Snake.git
+  - cd Classic-Snake
+  - mingw32-make -f Makefile
+  - ./main.exe
   
 2. Game rắn ăn táo cơ bản
   - Khởi đầu với đầu rắn, rắn sẽ dài thêm 1 đốt khi ăn được táo sinh ngẫu nhiên trên sân
